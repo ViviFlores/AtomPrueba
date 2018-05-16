@@ -14,7 +14,7 @@ def add_entry():
     """Agrega un registro"""
 
 def view_entries():
-    """Despliega nuestras entradas"""
+    """Despliega nuestras entradffasffsdfd"""
 
 def delete_entry():
     """Borra un registro"""
